@@ -82,12 +82,12 @@ Dashboard Features
 
 
 
-## 👩‍💻 Author  
+## Professional Experience  
 
 **Dennis Toting**  
-- 🎓 More than 10 Years in Data and Analytics Expirience
-- 🎓 More than 5 Years in Data Engineering Role
-- 🎓 More than 5 Years in Bussness Intelegence Role
+- 📈 10+ Years of Experience in Data Analytics, Reporting, and Business Intelligence
+- ⚙️ 5+ Years of Experience in Data Engineering and ETL Development
+- 📊 5+ Years of Experience in Business Intelligence, Dashboard Development, and Data Visualization
 
 
 
