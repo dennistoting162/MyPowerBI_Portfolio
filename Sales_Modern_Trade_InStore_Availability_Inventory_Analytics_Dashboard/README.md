@@ -8,7 +8,7 @@
 
 ---
 
-![Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard Demo](sales-moderntrade-instoreavailability-inventory-dashboard.gif)
+![Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard Demo](Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard/image/sales-moderntrade-instoreavailability-inventory-dashboard.gif)
 
 
 ---
