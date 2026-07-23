@@ -1,18 +1,6 @@
-<p align="center">
-  <img src="Assets/Profile.jpg" alt="Profile Photo" width="180>
-</p>
-
-<h2 align="center">Dennis Toting</h2>
-
-<p align="center">
-<strong>Data Analyst | Power BI Developer | Data Engineer</strong>
-</p>
-
-<p align="center">
 📊 10+ Years in Data Analytics & Business Intelligence  
 ⚙️ 5+ Years in Data Engineering  
 📈 5+ Years in Business Intelligence & Data Visualization
-</p>
 
 # Welcome To My Power BI Dashboard Portfolio. 
 
