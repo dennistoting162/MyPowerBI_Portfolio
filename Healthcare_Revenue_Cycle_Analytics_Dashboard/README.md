@@ -12,7 +12,7 @@
 
 ---
 ---
-![Healthcare Revenue Cycle Analytics Dashboard Demo2](image/healthcare-demographics-Analysis-Part2.gif) 
+![Healthcare Revenue Cycle Analytics Dashboard Demo2](image/healthcare-demographics-analysis.gif) 
 
 ---
 
