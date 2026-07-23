@@ -47,7 +47,7 @@ Dashboards like this don’t just look good — they empower leaders to make **d
 
 # [Project 2: Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard](Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard)
 
-![Healthcare Revenue Cycle Analytics Dashboard Demo](Healthcare_Revenue_Cycle_Analytics_Dashboard/image/healthcare-revenue-cycle-dashboard.gif)
+![Healthcare Revenue Cycle Analytics Dashboard Demo](Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard/image/sales-moderntrade-instoreavailability-inventory-dashboard.gif)
 
 
 
