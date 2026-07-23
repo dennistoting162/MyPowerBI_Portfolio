@@ -45,3 +45,35 @@ Dashboards like this don’t just look good — they empower leaders to make **d
 
 ---
 
+# [Project 2: Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard](Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard)
+
+![Healthcare Revenue Cycle Analytics Dashboard Demo](Healthcare_Revenue_Cycle_Analytics_Dashboard/image/healthcare-revenue-cycle-dashboard.gif)
+
+
+
+This **Healthcare Revenue Cycle Analytics Dashboard** provides visibility into **claim payments, balances, denials, and encounter performance** to help healthcare organizations optimize revenue collection and improve billing efficiency.  
+
+The dashboard highlights:  
+- **Monthly Revenue & Payment Trends**
+- **Paid vs Outstanding Balance Analysis**
+- **Claim Status Monitoring (Paid, Open, Denied)**
+- **Insurance Provider Performance Tracking**
+- **Patient Encounter & Volume Analysis**
+- **Revenue Cycle KPI Monitoring**  
+
+Dashboards like this don’t just look good — they empower leaders to make **data-driven business decisions**. 
+
+This **Modern Trade In-Store Availability & Inventory Analytics Dashboard** provides visibility into **on-shelf availability, inventory health, product performance, and retail execution** to help FMCG organizations optimize product distribution, reduce stock-outs, and improve in-store compliance. 
+
+The dashboard highlights:
+- **On-Shelf Availability (OSA) Compliance Monitoring**
+- **Audited Stores vs Total Stores Performance Tracking**
+- **Inventory Coverage & Weeks Inventory Analysis**
+- **Regional and Zone-Level Availability Performance**
+- **Top SKU & New Product Development (NPD) Monitoring**
+- **Offtake Volume & Sales Performance Analytics** 
+
+🔗 [Click here to view the full project details →](Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard)  
+
+---
+
