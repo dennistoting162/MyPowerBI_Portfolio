@@ -1,4 +1,4 @@
-<img width="711" height="807" alt="image" src="https://github.com/user-attachments/assets/25e179b9-8d5a-4d9c-b60c-15b4b207f3df" /># Power BI Projects Portfolio  
+# Power BI Projects Portfolio  
 
 
 
@@ -8,8 +8,9 @@ Welcome to my Power BI Portfolio Repository. This collection showcases a range o
 
 ---
 
-# [Project 1: Healthcare Revenue Cycle Analytics Dashboard](https://github.com/dennistoting162/MyPowerBI_Portfolio/blob/main/Healthcare%20Revenue%20Cycle%20Analytics%20Dashboard/README.md)
+### [Project 1: Healthcare Revenue Cycle Analytics Dashboard](https://github.com/dennistoting162/MyPowerBI_Portfolio/blob/main/Healthcare%20Revenue%20Cycle%20Analytics%20Dashboard/README.md)
 
+![Healthcare Revenue Cycle Analytics Dashboard Demo](./Healthcare%20Revenue%20Cycle%20Analytics%20Dashboard/image/Healthcare.gif)
 
 
 
