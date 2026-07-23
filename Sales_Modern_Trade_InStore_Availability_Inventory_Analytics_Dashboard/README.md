@@ -1,4 +1,4 @@
-# Healthcare Revenue Cycle Analytics Dashboard  
+# Sales Modern Trade In-Store Availability & Inventory Analytics Dashboard  
 
 ## 🛠 Tools Used  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ![Power Query](https://img.shields.io/badge/Power%20Query-0E76A8?style=for-the-badge&logo=microsoft&logoColor=white)  ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)  
@@ -8,10 +8,8 @@
 
 ---
 
-![Healthcare Revenue Cycle Analytics Dashboard Demo](image/healthcare-revenue-cycle-dashboard.gif)
+![Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard Demo](sales-moderntrade-instoreavailability-inventory-dashboard.mp4)
 
----
-![Healthcare Revenue Cycle Analytics Dashboard Demo2](image/healthcare-demographics-analysis.gif) 
 
 ---
 
