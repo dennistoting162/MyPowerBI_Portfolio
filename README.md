@@ -45,7 +45,7 @@ Dashboards like this don’t just look good — they empower leaders to make **d
 
 ---
 
-# [Project 2: Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard](Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard)
+# [Project 2: Sales Modern Trade In-Store Availability Inventory Analytics Dashboard](Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard)
 
 ![Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard Demo](Sales_Modern_Trade_InStore_Availability_Inventory_Analytics_Dashboard/image/sales-moderntrade-instoreavailability-inventory-dashboard.gif)
 
