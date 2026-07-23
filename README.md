@@ -1,3 +1,7 @@
+<p align="center">
+  profile.jpg" alt="Dennis Toting" width="180">
+</p>
+
 
 📊 10+ Years in Data Analytics & Business Intelligence  
 ⚙️ 5+ Years in Data Engineering  
