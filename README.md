@@ -1,6 +1,19 @@
-📊 10+ Years in Data Analytics & Business Intelligence  
-⚙️ 5+ Years in Data Engineering  
+<p align="center">
+<img src="https://raw.githubusercontent.com/dennistoting162/MyPowerBI_Portfolio/main/Assets/Profile.jpg" width="180">
+</p>
+
+<h1 align="center">Dennis Toting</h1>
+
+<p align="center">
+  <strong>Data Analyst | Power BI Developer | Data Engineer</strong>
+</p>
+
+<p align="center">
+📊 10+ Years in Data Analytics & Business Intelligence<br>
+⚙️ 5+ Years in Data Engineering<br>
 📈 5+ Years in Business Intelligence & Data Visualization
+</p>
+
 
 # Welcome To My Power BI Dashboard Portfolio. 
 
