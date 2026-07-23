@@ -8,7 +8,7 @@ Welcome to my Power BI Portfolio Repository. This collection showcases a range o
 
 ---
 
-### [Project 1: Healthcare Revenue Cycle Analytics Dashboard](https://github.com/dennistoting162/MyPowerBI_Portfolio/blob/main/Healthcare%20Revenue%20Cycle%20Analytics%20Dashboard/README.md)
+# [Project 1: Healthcare Revenue Cycle Analytics Dashboard](Healthcare_Revenue_Cycle_Analytics_Dashboard)
 
 ![Healthcare Revenue Cycle Analytics Dashboard Demo](Healthcare_Revenue_Cycle_Analytics_Dashboard/images/healthcare-revenue-cycle-dashboard.gif)
 
