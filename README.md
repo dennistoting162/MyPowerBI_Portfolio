@@ -12,7 +12,7 @@
 📊 10+ Years in Data Analytics & Business Intelligence  
 ⚙️ 5+ Years in Data Engineering  
 📈 5+ Years in Business Intelligence & Data Visualization
-
+</p>
 
 # Welcome To My Power BI Dashboard Portfolio. 
 
