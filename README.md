@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my Power BI Portfolio Repository. This collection highlights the dashboards and analytics projects I’ve built to demonstrate my ability to transform raw, complex data into clear, actionable insights. Each project reflects my expertise in business intelligence, dashboard design, and data storytelling. Whether it’s finance, sales, marketing, or operations, my goal is always the same: to create tools that help businesses make smarter, data-driven decisions.  
+Welcome to my Power BI Portfolio Repository. This collection showcases a range of dashboards, reports, and analytics solutions I have developed to transform complex, raw data into meaningful and actionable insights. Each project demonstrates my expertise in business intelligence, data modeling, visualization design, and data storytelling, with a strong focus on delivering clarity, accuracy, and business value. Through these projects, I highlight my ability to analyze data across various domains—including finance, sales, marketing, operations, and performance management—and turn it into interactive, user-friendly dashboards that support strategic decision-making. My goal is not just to present data, but to uncover trends, identify opportunities, and empower organizations to make smarter, data-driven decisions with confidence. Explore the portfolio to see how data can be transformed into compelling stories that drive growth, efficiency, and measurable business outcomes.
 
 ---
 
