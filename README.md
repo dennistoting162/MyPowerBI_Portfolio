@@ -26,7 +26,7 @@ The dashboard highlights:  
 
 Dashboards like this don’t just look good — they empower leaders to make **data-driven business decisions**.  
 
-🔗 [Click here to view the full project details →](https://github.com/dennistoting162/MyPowerBI_Portfolio/blob/main/Healthcare%20Revenue%20Cycle%20Analytics%20Dashboard/README.md)  
+🔗 [Click here to view the full project details →](Healthcare_Revenue_Cycle_Analytics_Dashboard)  
 
 ---
 
