@@ -51,18 +51,6 @@ Dashboards like this don’t just look good — they empower leaders to make **d
 
 
 
-This **Healthcare Revenue Cycle Analytics Dashboard** provides visibility into **claim payments, balances, denials, and encounter performance** to help healthcare organizations optimize revenue collection and improve billing efficiency.  
-
-The dashboard highlights:  
-- **Monthly Revenue & Payment Trends**
-- **Paid vs Outstanding Balance Analysis**
-- **Claim Status Monitoring (Paid, Open, Denied)**
-- **Insurance Provider Performance Tracking**
-- **Patient Encounter & Volume Analysis**
-- **Revenue Cycle KPI Monitoring**  
-
-Dashboards like this don’t just look good — they empower leaders to make **data-driven business decisions**. 
-
 This **Modern Trade In-Store Availability & Inventory Analytics Dashboard** provides visibility into **on-shelf availability, inventory health, product performance, and retail execution** to help FMCG organizations optimize product distribution, reduce stock-outs, and improve in-store compliance. 
 
 The dashboard highlights:
