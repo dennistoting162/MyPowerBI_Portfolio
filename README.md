@@ -1,5 +1,5 @@
 <p align="center">
-  Assets/Profile.jpg alt="Dennis Toting" width="180">
+  <img src="Assets/Profile.jpg" alt="Profile Photo" width="180>
 </p>
 
 <h2 align="center">Dennis Toting</h2>
@@ -8,6 +8,7 @@
 <strong>Data Analyst | Power BI Developer | Data Engineer</strong>
 </p>
 
+<p align="center">
 📊 10+ Years in Data Analytics & Business Intelligence  
 ⚙️ 5+ Years in Data Engineering  
 📈 5+ Years in Business Intelligence & Data Visualization
