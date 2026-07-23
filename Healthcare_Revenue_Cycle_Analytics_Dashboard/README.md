@@ -8,7 +8,7 @@
 
 ---
 
-![Healthcare Revenue Cycle Analytics Dashboard Demo](Healthcare_Revenue_Cycle_Analytics_Dashboard/image/healthcare-revenue-cycle-dashboard.gif) 
+![Healthcare Revenue Cycle Analytics Dashboard Demo](image/healthcare-revenue-cycle-dashboard.gif) 
 
 ---
 
