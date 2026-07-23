@@ -20,7 +20,7 @@ By transforming operational billing data into actionable insights, the dashboard
 
 ---
 
-## 📂 Business Problems Addressed  
+## 🎯 Business Problems Addressed  
 
 Healthcare providers often struggle with:
 
@@ -35,7 +35,7 @@ This dashboard centralizes key revenue cycle metrics to enable proactive decisio
 
 ---
 
-##  Key Business Questions Answered  
+##  ❓ Key Business Questions Answered  
 Financial Performance
 
 - How much revenue has been collected each month?
@@ -64,7 +64,7 @@ Operational Efficiency
 
 ---
 
-Dashboard Features
+📊 Dashboard Features
 
 - ✅ Monthly reimbursement trend analysis
 - ✅ Payment vs. balance comparison
